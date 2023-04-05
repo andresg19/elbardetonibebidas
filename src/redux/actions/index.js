@@ -64,7 +64,7 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 
-let url = 'https://elbardetoni.herokuapp.com'
+let url = 'https://el-bar-de-toni-production.up.railway.app'
 
 
 //-------------------------------AUTH-------------------------------//
